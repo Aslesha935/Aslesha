@@ -1,6 +1,6 @@
 class sample
 {
-int a,b
+int c,d
 public void display()
 {
 System.out.println("devops");
